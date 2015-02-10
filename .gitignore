@@ -29,6 +29,7 @@ nbproject
 .komodotools
 
 # Folders to ignore
+.c9
 .hg
 .svn
 .CVS
