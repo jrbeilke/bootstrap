@@ -12,7 +12,6 @@ Three quick start options are available:
 
 * [Download the latest release](https://github.com/jrbeilke/bootstrap/zipball/v2.x).
 * Clone the repo: `git clone git://github.com/jrbeilke/bootstrap.git`.
-<!--* Install with Twitter's [Bower](http://bower.io): `bower install bootstrap`.-->
 
 
 
