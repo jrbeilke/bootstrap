@@ -1,3 +1,7 @@
+## 2.3.3 (February 10, 2015)
+
+Patch to fix dropdown-menu selectors that were missed in fix #6197.
+
 ## 2.3.2 re-release (July 26, 2013)
 
 Patch to update jQuery in Bower and bump Recess to 1.1.9.

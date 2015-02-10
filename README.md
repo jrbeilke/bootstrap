@@ -1,8 +1,8 @@
-# [Bootstrap v2.3.2](http://twbs.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twbs/bootstrap.png)](http://travis-ci.org/twbs/bootstrap)
+# [Bootstrap v2.3.3](http://jrbeilke.github.io/bootstrap/) [![Build Status](https://api.travis-ci.org/jrbeilke/bootstrap.png)](http://travis-ci.org/twbs/bootstrap)
 
 Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
 
-To get started, checkout [http://getbootstrap.com](http://getbootstrap.com)!
+To get started, checkout [http://getbootstrap.com/2.3.2/](http://getbootstrap.com/2.3.2/)!
 
 
 
@@ -10,9 +10,9 @@ To get started, checkout [http://getbootstrap.com](http://getbootstrap.com)!
 
 Three quick start options are available:
 
-* [Download the latest release](https://github.com/twbs/bootstrap/zipball/master).
-* Clone the repo: `git clone git://github.com/twbs/bootstrap.git`.
-* Install with Twitter's [Bower](http://bower.io): `bower install bootstrap`.
+* [Download the latest release](https://github.com/jrbeilke/bootstrap/zipball/v2.x).
+* Clone the repo: `git clone git://github.com/jrbeilke/bootstrap.git`.
+<!--* Install with Twitter's [Bower](http://bower.io): `bower install bootstrap`.-->
 
 
 
@@ -36,7 +36,7 @@ For more information on SemVer, please visit [http://semver.org/](http://semver.
 
 ## Bug tracker
 
-Have a bug or a feature request? [Please open a new issue](https://github.com/twbs/bootstrap/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
+Have a bug or a feature request? [Please open a new issue](https://github.com/jrbeilke/bootstrap/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
 
 
 
