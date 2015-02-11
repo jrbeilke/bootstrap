@@ -1,8 +1,12 @@
-# [Bootstrap v2.3.3](http://jrbeilke.github.io/bootstrap/) [![Build Status](https://api.travis-ci.org/jrbeilke/bootstrap.png)](http://travis-ci.org/twbs/bootstrap)
+# [Bootstrap v2](http://bootstrap2.jrbeilke.com/) [![Build Status](https://api.travis-ci.org/jrbeilke/bootstrap2.png)](http://travis-ci.org/jrbeilke/bootstrap2)
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
+Bootstrap v2 was a (now deprecated) front-end framework created by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
 
-To get started, checkout [http://getbootstrap.com/2.3.2/](http://getbootstrap.com/2.3.2/)!
+On August 19th, 2013 Bootstrap v3 was released, and v2.3.2 became the last official release of Bootstrap v2.
+
+This is an unofficial fork of the Bootstrap code by [Jon Beilke](http://twitter.com/jrbeilke) to provide maintenance and bug fixes for sites that are still running the v2 code branch.
+
+To get started, checkout [http://bootstrap2.jrbeilke.com/](http://bootstrap2.jrbeilke.com/)!
 
 
 
@@ -10,7 +14,7 @@ To get started, checkout [http://getbootstrap.com/2.3.2/](http://getbootstrap.co
 
 Three quick start options are available:
 
-* [Download the latest release](https://github.com/jrbeilke/bootstrap/zipball/v2.x).
+* [Download the latest release](https://github.com/jrbeilke/bootstrap/zipball/master).
 * Clone the repo: `git clone git://github.com/jrbeilke/bootstrap.git`.
 
 
@@ -35,7 +39,7 @@ For more information on SemVer, please visit [http://semver.org/](http://semver.
 
 ## Bug tracker
 
-Have a bug or a feature request? [Please open a new issue](https://github.com/jrbeilke/bootstrap/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
+Have a bug or a feature request? [Please open a new issue](https://github.com/jrbeilke/bootstrap2/issues). Before opening any issue, please search for existing issues and read the [Issue Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas Gallagher](https://github.com/necolas/).
 
 
 
@@ -93,6 +97,10 @@ Thanks!
 + [http://twitter.com/fat](http://twitter.com/fat)
 + [http://github.com/fat](http://github.com/fat)
 
+**Jon Beilke**
+
++ [http://twitter.com/fat](http://twitter.com/jrbeilke)
++ [http://github.com/fat](http://github.com/jrbeilke)
 
 
 ## Copyright and license
