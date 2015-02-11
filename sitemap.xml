@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://getbootstrap.com/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -9,7 +9,7 @@
   
   
   <url>
-    <loc>http://getbootstrap.com/about/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/about/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -18,7 +18,7 @@
   
   
   <url>
-    <loc>http://getbootstrap.com/browser-bugs/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/browser-bugs/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -27,7 +27,7 @@
   
   
   <url>
-    <loc>http://getbootstrap.com/components/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/components/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -36,7 +36,7 @@
   
   
   <url>
-    <loc>http://getbootstrap.com/css/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/css/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -45,7 +45,7 @@
   
   
   <url>
-    <loc>http://getbootstrap.com/customize/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/customize/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -54,7 +54,7 @@
   
   
   <url>
-    <loc>http://getbootstrap.com/getting-started/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/getting-started/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -65,7 +65,7 @@
   
   
   <url>
-    <loc>http://getbootstrap.com/javascript/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/javascript/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -74,7 +74,7 @@
   
   
   <url>
-    <loc>http://getbootstrap.com/migration/</loc>
+    <loc>http://bootstrap2.jrbeilke.com/migration/</loc>
     <lastmod>2015-01-19T09:03:49-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
