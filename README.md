@@ -99,8 +99,8 @@ Thanks!
 
 **Jon Beilke**
 
-+ [http://twitter.com/fat](http://twitter.com/jrbeilke)
-+ [http://github.com/fat](http://github.com/jrbeilke)
++ [http://twitter.com/jrbeilke](http://twitter.com/jrbeilke)
++ [http://github.com/jrbeilke](http://github.com/jrbeilke)
 
 
 ## Copyright and license
