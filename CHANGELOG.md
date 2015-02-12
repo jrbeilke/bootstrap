@@ -1,4 +1,6 @@
-## 2.3.3 (February 10, 2015)
+## 2.3.3 (February 12, 2015)
+
+Initial fork from official Bootstrap repo to maintain deprecated v2 codebase.
 
 Patch to fix dropdown-menu selectors that were missed in fix #6197.
 
