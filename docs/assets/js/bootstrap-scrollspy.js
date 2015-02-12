@@ -1,6 +1,6 @@
 /* =============================================================
  * bootstrap-scrollspy.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#scrollspy
+ * http://bootstrap2.jrbeilke.com/javascript.html#scrollspy
  * =============================================================
  * Copyright 2013 Twitter, Inc.
  *

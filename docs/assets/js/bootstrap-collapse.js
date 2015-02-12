@@ -1,6 +1,6 @@
 /* =============================================================
  * bootstrap-collapse.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#collapse
+ * http://bootstrap2.jrbeilke.com/javascript.html#collapse
  * =============================================================
  * Copyright 2013 Twitter, Inc.
  *

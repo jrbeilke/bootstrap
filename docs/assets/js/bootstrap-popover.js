@@ -1,6 +1,6 @@
 /* ===========================================================
  * bootstrap-popover.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#popovers
+ * http://bootstrap2.jrbeilke.com/javascript.html#popovers
  * ===========================================================
  * Copyright 2013 Twitter, Inc.
  *

@@ -1,6 +1,6 @@
 /* ===================================================
  * bootstrap-transition.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#transitions
+ * http://bootstrap2.jrbeilke.com/javascript.html#transitions
  * ===================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -59,7 +59,7 @@
 
 }(window.jQuery);/* ==========================================================
  * bootstrap-alert.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#alerts
+ * http://bootstrap2.jrbeilke.com/javascript.html#alerts
  * ==========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -156,8 +156,8 @@
   $(document).on('click.alert.data-api', dismiss, Alert.prototype.close)
 
 }(window.jQuery);/* ============================================================
- * bootstrap-button.js 
- * http://twbs.github.com/bootstrap/javascript.html#buttons
+ * bootstrap-button.js v2.3.3
+ * http://bootstrap2.jrbeilke.com/javascript.html#buttons
  * ============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -261,7 +261,7 @@
 
 }(window.jQuery);/* ==========================================================
  * bootstrap-carousel.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#carousel
+ * http://bootstrap2.jrbeilke.com/javascript.html#carousel
  * ==========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -467,7 +467,7 @@
 
 }(window.jQuery);/* =============================================================
  * bootstrap-collapse.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#collapse
+ * http://bootstrap2.jrbeilke.com/javascript.html#collapse
  * =============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -633,7 +633,7 @@
 
 }(window.jQuery);/* ============================================================
  * bootstrap-dropdown.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#dropdowns
+ * http://bootstrap2.jrbeilke.com/javascript.html#dropdowns
  * ============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -802,7 +802,7 @@
 }(window.jQuery);
 /* =========================================================
  * bootstrap-modal.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#modals
+ * http://bootstrap2.jrbeilke.com/javascript.html#modals
  * =========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -1049,7 +1049,7 @@
 }(window.jQuery);
 /* ===========================================================
  * bootstrap-tooltip.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#tooltips
+ * http://bootstrap2.jrbeilke.com/javascript.html#tooltips
  * Inspired by the original jQuery.tipsy by Jason Frame
  * ===========================================================
  * Copyright 2013 Twitter, Inc.
@@ -1410,7 +1410,7 @@
 }(window.jQuery);
 /* ===========================================================
  * bootstrap-popover.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#popovers
+ * http://bootstrap2.jrbeilke.com/javascript.html#popovers
  * ===========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -1524,7 +1524,7 @@
 }(window.jQuery);
 /* =============================================================
  * bootstrap-scrollspy.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#scrollspy
+ * http://bootstrap2.jrbeilke.com/javascript.html#scrollspy
  * =============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -1685,7 +1685,7 @@
 
 }(window.jQuery);/* ========================================================
  * bootstrap-tab.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#tabs
+ * http://bootstrap2.jrbeilke.com/javascript.html#tabs
  * ========================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -1828,7 +1828,7 @@
 
 }(window.jQuery);/* =============================================================
  * bootstrap-typeahead.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#typeahead
+ * http://bootstrap2.jrbeilke.com/javascript.html#typeahead
  * =============================================================
  * Copyright 2013 Twitter, Inc.
  *
@@ -2163,7 +2163,7 @@
 }(window.jQuery);
 /* ==========================================================
  * bootstrap-affix.js v2.3.3
- * http://twbs.github.com/bootstrap/javascript.html#affix
+ * http://bootstrap2.jrbeilke.com/javascript.html#affix
  * ==========================================================
  * Copyright 2013 Twitter, Inc.
  *
